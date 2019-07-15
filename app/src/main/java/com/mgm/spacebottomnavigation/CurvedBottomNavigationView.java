@@ -21,7 +21,7 @@ public class CurvedBottomNavigationView extends BottomNavigationView {
 
 
     /** the CURVE_CIRCLE_RADIUS represent the radius of the fab button */
-    public final int CURVE_CIRCLE_RADIUS = 256 / 3;
+    public final int CURVE_CIRCLE_RADIUS = 240 / 3;
     // the coordinates of the first curve
     public Point mFirstCurveStartPoint = new Point();
     public Point mFirstCurveEndPoint = new Point();
